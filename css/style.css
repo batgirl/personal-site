@@ -850,7 +850,7 @@ opacity: .5; }
 }
 
 img.about-photo-1 {
-    width: 400px;
+    width: 300px;
 }
 
 img.about-photo-2 {
@@ -875,3 +875,14 @@ img.headshot {
     display: grid;
     justify-content: right;
 } */
+
+div.button-center {
+    display: grid;
+    align-content: center;
+}
+
+div.bat-image {
+    display: grid;
+    justify-content: center;
+    width: 100%;
+}
